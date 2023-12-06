@@ -27,4 +27,5 @@ It is very simple analysis of Pizza sales data using SQL and Power Bi.
 
 #Power BI Dashboard
 
-![image](https://github.com/Rebecca1061/Data-Analysis-Project-3/assets/152878222/d9443dc8-5b94-466d-af03-2bc622f7a40f)
+![image](https://github.com/Rebecca1061/Data-Analysis-Project-3/assets/152878222/bc610c60-1191-43bd-b953-8a49473e126c)
+
