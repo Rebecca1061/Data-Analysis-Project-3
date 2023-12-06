@@ -25,3 +25,6 @@ It is very simple analysis of Pizza sales data using SQL and Power Bi.
 
 >Classic pizza of large size  was the most sold catogory of pizzas.
 
+#Power BI Dashboard
+
+![image](https://github.com/Rebecca1061/Data-Analysis-Project-3/assets/152878222/d9443dc8-5b94-466d-af03-2bc622f7a40f)
