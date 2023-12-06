@@ -23,7 +23,7 @@ It is very simple analysis of Pizza sales data using SQL and Power Bi.
 
 >Visual analysis concluded best days for pizza sales was weekend or Fridays/Sundays around evening time
 
->Classic pizza of large size  was the most sold catogory of pizzas.
+>Classic pizza of large size was the most sold category of pizzas.
 
 #Power BI Dashboard
 
